@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/TECNICO_02_CALIDAD_CONFECCION_CF7/](https://ecored-sena.github.io/TECNICO_02_CALIDAD_CONFECCION_CF7/)
+[https://ecored-sena.github.io/SUPERVICION_PROCESOS_CONFECCION_CF7/](https://ecored-sena.github.io/SUPERVICION_PROCESOS_CONFECCION_CF7/)
 
 #
 
