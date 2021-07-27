@@ -74,11 +74,11 @@
               p Son utilizados en piezas de alta temperatura o revoluciones de fricción.
       .col-lg-6.d-flex
         .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/tema_3/img_7.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--bg2
+          .tarjeta.tarjeta--bg2.tar-av
             .p-4
               h2 Lubricación por grasa
               p Conformados por un aceite base ligado por un espesante que garantiza permanencia en el punto de lubricación, posibilitando una protección que sella las piezas de la fricción, el desgate e influencias de humedad o sustancias extrañas.
+          img(src='@/assets/curso/tema_3/img_7.svg' alt='AvatarTop')
 
     .row
       .col-lg-6
@@ -90,11 +90,11 @@
               p Basado en una nueva tecnología, que genera una corriente de aire, que posibilita la refrigeración y lubricación a partir de partículas de aceite que recubren las partes.
       .col-lg-6.d-flex
         .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/tema_3/img_9.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--bg1
+          .tarjeta.tarjeta--bg1.tar-av
             .p-4
               h2 Lubricantes secos
               p Usados con poca frecuencia en las confecciones por el tipo de máquina que se utiliza, pero son lubricantes sólidos en polvo, lacas o en películas semejantes a la cera.
+          img(src='@/assets/curso/tema_3/img_9.svg' alt='AvatarTop')
 
     separador
 

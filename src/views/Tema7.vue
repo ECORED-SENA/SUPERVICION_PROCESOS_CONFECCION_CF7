@@ -26,7 +26,7 @@
 
     p.mb-5 Para ello, se ha pensado en los problemas más comunes que pueden generarse y sus posibles soluciones, siempre y cuando no se presenten mayores dificultades para que el mismo operario pueda desenvolverse de la forma más adecuada ante la eventualidad.
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-10
 
         .bloque-texto-d.color-secundario.p-4
@@ -35,7 +35,262 @@
             p.text-regular De acuerdo con Tabares (1990) en su cartilla Mantenimiento en la industria de la confección (problemas técnicos y soluciones) se evidencian posibles problemas mecánicos que pueden surgir con mayor frecuencia con las máquinas de confección, así como la solución sugerida. Estos se muestran en la siguiente tabla, donde se eligieron problemas menores para ser corregidos, puesto que otros de mayor magnitud no entran en la categoría de primeros auxilios en mantenimiento de máquinas de confección.
               i.fas.fa-quote-right
 
-    
+    p.BorTit #[strong Tabla 5] #[br]Mantenimiento y atención a problemas menores
+    .tabla-a.color-acento-contenido.mb-5 
+      table
+        thead
+          tr
+            th Problema
+            th Causa
+            th Solución
+        tbody
+          tr
+            th(rowspan=17).th_bg2 Rotura del hilo en la aguja.
+
+          tr
+            td Hilo inadecuado según el material a coser.	 
+            td Usar hilo de la misma fibra del material. 
+              p Usar lubricante para el hilo.
+
+          tr
+            td Hilo inadecuado según la proporción aguja material.	
+            td Emplear aguja apropiada según el espesor del material y usar calibre de hilo según diámetro de la aguja.
+
+          tr
+            td Aguja torcida.	
+            td Cambiar aguja.
+          tr
+            td Aguja despuntada.	
+            td Cambiar aguja.
+          tr
+            td Aguja muy delgada para hilo empleado.	
+            td Cambiar aguja por una más gruesa. 
+              p Si es posible cambiar hilo
+          tr
+            td Sistema de aguja inadecuada.	
+            td Colocar aguja apropiada.
+          tr
+            td Tomador de lazada con filos o rebabas.	
+            td Pulir o cambiar tomador de lazada.
+          tr
+            td Dientes con filos.	
+            td Pulir o cambiar los dientes.
+          tr
+            td Plancha de dientes con rebabas.	
+            td Pulir o cambiar plancha.
+          tr
+            td Punta del tomador de lazada rota.	
+            td Cambiar tomador de lazada.
+          tr
+            td Palanca tirahílo con desgastes o desincronizada.	
+            td Pulir o cambiar palanca tirahílo sincronizar correctamente.
+          tr
+            td Prensatelas descentrado o con rebabas.	
+            td Centrar prensatelas, pulir o cambiarlo.
+          tr
+            td Prensatelas torcido.	
+            td Enderezar o cambiar el prensatelas.
+          tr
+            td Mal enhebrada la máquina.	
+            td Enhebrar correctamente según catálogo.
+          tr
+            td Tensión excesiva del hilo inferior.	
+            td Disminuir tensión inferior; revisar sincronización del mecanismo alimentador.
+          tr
+            td Recalentamiento de aguja.	
+            td Rebajar la velocidad a la máquina o lubricar el hilo si es posible
+          tr
+            th(rowspan=6).th_bg2 Costuras de mala calidad
+            td Pie prensatelas gastado.	
+            td Rectificar o cambiar el pie.
+          tr 
+            td Tipo de punta de aguja inadecuado.	
+            td Cambiar aguja por una apropiada.
+          tr
+            td Poco o demasiado corte de tela.	
+            td Sincronizar distancia de las cuchillas.
+          tr
+            td Corte defectuoso de material.	
+            td Afilar o cambiar cuchillas.
+          tr
+            td Número de puntada por pulgada muy alto o bajo.	
+            td Poner la longitud de puntada adecuada.
+          tr
+            td Tipo de puntada inapropiada según la operación que se hace.	
+            td Usar la máquina apropiada.
+          tr
+            th(rowspan=8).th_bg2 Rotura de hilo inferior
+            td Agujero de la plancha con filo o rebabas.	
+            td Pulir el agujero o cambiar la plancha.
+          tr
+            td Demasiada tensión del hilo inferior.	
+            td Disminuir tensión inferior, revisar sincronización del mecanismo alimentador.
+          tr
+            td Hilo de mala calidad.	
+            td Cambiar hilo por uno de mejor calidad.
+          tr
+            td Dientes con filos.	
+            td Pulir o cambiar dientes.
+          tr 
+            td Rebabas en el tomador de lazada.	
+            td Pulir tomador de lazada.
+          tr
+            td Hilo inferior no sale libremente.	
+            td Revisar enhebrado a partir del portaconos, revisar caja bobina si es de este sistema la máquina.
+          tr
+            td Tensión del hilo inadecuado.	
+            td Utilizar tensión apropiada.
+          tr
+            td Mal funcionamiento del resorte tirahílo o falta de este.	
+            td Sincronizarlo correctamente colocarle el resorte.
+          tr
+            th(rowspan=9).th_bg2 Puntadas que saltan (Bastas)
+            td Aguja despuntada o torcida.	
+            td Cambiarla por una nueva.
+          tr
+            td Sistema de aguja inadecuado.	
+            td Usar el sistema apropiado.
+          tr
+            td Aguja de mala calidad.	
+            td Usar aguja de buena calidad.
+          tr
+            td Orificio de la plancha muy pequeño o con suciedad.	
+            td Ampliar el agujero, cambiar la plancha, limpiar.
+          tr
+            td Prensatelas descentrado.	
+            td Centrar con relación a la aguja.
+          tr
+            td Tela con demasiado apresto.	
+            td Cambiar sistema de aguja lubricar el hilo.
+          tr
+            td Resorte tirahílo no funciona correctamente.	
+            td Sincronizar correctamente el resorte.
+          tr
+            td Hilo de mala calidad.	
+            td Cambiar hilo por uno de mejor calidad.
+          tr
+            td Hilo inadecuado.	
+            td Usar hilo apropiado.
+          tr
+            th(rowspan=8).th_bg2 Transporte defectuoso del material
+            td Prensatelas torcido o con desgastes.	
+            td Enderezar el prensatelas o cambiarlo.
+          tr
+            td Prensatelas mal calibrado (no pisa bien el material).	
+            td Sincronizar correctamente el prensatelas.
+          tr 
+            td Pie prensatelas con asperezas.	
+            td Pulir el pie o cambiarlo.
+          tr 
+            td Prensatelas rígido o pegado.	
+            td Cambiar prensatelas por uno articulado o suavizarlo.
+          tr
+            td Plancha de dientes en mal estado.	
+            td Revisar o cambiar la plancha.
+          tr
+            td Dientes muy gastados.	
+            td Cambiar los dientes.
+          tr 
+            td Dientes muy bajos inadecuados o sucios.	
+            td Dar la altura correcta, cambiarlos por unos apropiados para el material a coser, limpiarlos.
+          tr
+            td Mecanismo del prensatelas pegado.	
+            td Suavizar y lubricar el mecanismo.
+          tr
+            th(rowspan=9).th_bg2 Costuras de mala calidad
+            td Defectos en el ojo de la palanca tirahílo.	
+            td Pulir o cambiar la palanca tirahílo.
+          tr
+            td Tensor defectuoso.	
+            td Revisar corregir y limpiar el tensor.
+          tr
+            td Mal devanado.	
+            td Cambiar bobina por una bien devanada y revisar devanador.
+          tr 
+            td Hilo de mala calidad.
+            td Cambiar hilo por uno de buena calidad.
+          tr
+            td Hilo inadecuado para el material que se cose.	
+            td Usar hilo apropiado en los factores de calidad, fibra, torsión y título.
+          tr
+            td Presión del prensatelas inadecuado.	
+            td Dar la tensión correcta según la tela que se cose, revisar el mecanismo del prensatelas.
+          tr 
+            td Tensiones desniveladas.	
+            td Tensionar correctamente según manual de puntadas.
+          tr
+            td Aguja despuntada o torcida.	
+            td Cambiar aguja.
+          tr 
+            td Transportador desajustado.
+            td Ajustar y sincronizar.
+          tr
+            th(rowspan=7).th_bg2 Daños en la tela
+            td Hilos del tejido de la tela cortados o picados.	
+            td Cambiar la aguja, revisar los dientes.
+          tr
+            td Tela de tejido de punto con boleros (Fuquer) al ser cosida.	
+            td Utilizar alimentador diferencial, revisar tensiones de los hilos, manipular bien la tela.
+          tr
+            td Huellas de los dientes o el prensatelas.	
+            td Revisar y pulir los dientes - disminuir presión del prensatelas revisar mecanismo del prensatelas.
+          tr
+            td La tela sufre enganchones.	
+            td Revisar y pulir la plancha, dientes y prensatelas.
+          tr
+            td Cortadura de la tela.	
+            td Colocar una longitud de puntada apropiada.
+          tr
+            td Fusionamiento de la tela, en la perforación de la aguja.	
+            td Disminuir la velocidad de la máquina. Emplear aguja con revestimiento - lubricar el hilo.
+          tr
+            td La prensa se ensucia.	
+            td Revisar: sistema de lubricación - bujes del mecanismo del Prensatelas, bujes del mecanismo de la barra de aguja - empaques de la máquina, limpiar dientes y gancho rotatorio con acetona.
+          tr
+            th(rowspan=2).th_bg2 Problemas por lubricación
+            td Recalentamiento de mecanismos o partes del bastidor de la máquina.
+            td Revisar: nivel del lubricante, cualidades físicas y químicas, tipo de lubricante empleado, sistema de lubricación.
+          tr
+            td El lubricante pierde muy fácil sus propiedades.	
+            td Utilizar un tipo de lubricante de mejor calidad. Cambiar el tipo de lubricante.
+          tr
+            th(rowspan=2).th_bg2 Funcionamiento ruidoso de la máquina
+            td Falta de lubricación.	
+            td Revisar sistema de lubricación y tipo de lubricante. Aumentar frecuencia de lubricación cuando es manual.
+          tr
+            td Suciedad entre la plancha de aguja y los dientes.	
+            td Quitar la plancha de dientes y limpiar con aire a presión o brocha. Fijar una frecuencia para realizar esta limpieza.
+          tr
+            th(rowspan=7).th_bg2 Recalentamiento de la máquina
+            td Muy ajustados los mecanismos.	
+            td Suavizar y dar el ajuste correcto.
+          tr 
+            td Demasiado lubricante.	
+            td Rebajar el nivel del lubricante hasta el límite correcto.
+          tr
+            td Falta de limpieza.	
+            td Efectuar una limpieza adecuada y periódica.
+          tr
+            td Obstrucciones en el sistema de lubricación.	
+            td Desconectar las mangueras y tuberías, limpiar con aire a presión.
+          tr
+            td Falta de lubricante.	
+            td Aumentar el nivel o la frecuencia de lubricación si es manual.
+          tr
+            td Lubricante inadecuado.	
+            td Utilizar un lubricante adecuado y de buena calidad.
+          tr
+            td Demasiada velocidad.	
+            td Trabajar la máquina a la velocidad indicada, según catálogo del fabricante.
+
+    p Es de destacar que en la anterior tabla se especifican una serie de problemas con posibles causas menores que la persona con conocimiento del manejo de la máquina de confección está en capacidad de realizar, lo cual se conoce como primeros auxilios.
+          
+          
+
+
+
+
+
         
 
 </template>

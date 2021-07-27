@@ -296,7 +296,7 @@
                     figure
                       img(src='@/assets/curso/tema_1/img_22.png', alt='Lanzada')
                   .col-lg-6
-                    .jumbo_1.p-4
+                    .jumbo_1.p-4.bg-white
                       ol.lista-ol--color
                         li 
                           span.text-bold.bg_num 1. 
@@ -368,7 +368,7 @@
                     figure
                       img(src='@/assets/curso/tema_1/img_25.png', alt='Lanzada')
                   .col-lg-6
-                    .jumbo_1.p-4
+                    .jumbo_1.p-4.bg-white
                       ol.lista-ol--color
                         li 
                           span.text-bold.bg_num 1. 
@@ -441,7 +441,7 @@
                     figure
                       img(src='@/assets/curso/tema_1/img_28.png', alt='Lanzada')
                   .col-lg-6
-                    .jumbo_1.p-4
+                    .jumbo_1.p-4.bg-white
                       ol.lista-ol--color
                         li 
                           span.text-bold.bg_num 1. 
@@ -478,7 +478,7 @@
                     figure
                       img(src='@/assets/curso/tema_1/img_31.png', alt='Lanzada')
                   .col-lg-6
-                    .jumbo_1.p-4
+                    .jumbo_1.p-4.bg-white
                       ol.lista-ol--color
                         li 
                           span.text-bold.bg_num 1. 
@@ -533,7 +533,7 @@
                     figure
                       img(src='@/assets/curso/tema_1/img_34.png', alt='Lanzada')
                   .col-lg-6
-                    .jumbo_1.p-4
+                    .jumbo_1.p-4.bg-white
                       ol.lista-ol--color
                         li 
                           span.text-bold.bg_num 1. 
@@ -600,7 +600,7 @@
                     figure
                       img(src='@/assets/curso/tema_1/img_37.png', alt='Lanzada')
                   .col-lg-6
-                    .jumbo_1.p-4
+                    .jumbo_1.p-4.bg-white
                       ol.lista-ol--color
                         li 
                           span.text-bold.bg_num 1. 
@@ -791,78 +791,71 @@
     #t_1_3.titulo-segundo
       .h4 1.3 Herramientas o equipos de mantenimiento de máquinas de coser
 
-    p El mantenimiento de las máquinas requiere una serie de instrumentos, implementos o herramientas para su ejecución, a continuación, se mencionan las más utilizadas.
+    p.mb-5 El mantenimiento de las máquinas requiere una serie de instrumentos, implementos o herramientas para su ejecución, a continuación, se mencionan las más utilizadas.
 
     .row.d-flex.mb-5
-      .col-lg-4.d-flex
-        .jumbo_2
-          .row.justify-content-center.mt-4
-            .col-lg-10
-              p.BorTit #[strong Figura 13] #[br]Destornilladores
-              figure.mb-5
-                img(src='@/assets/curso/tema_1/img_39.png', alt='Texto que describa la imagen')
+      .col-lg-4.d-flex.mb-4.mb-lg-0
+        .jumbo_2.jum_bg1
+          .p-4.bg-white.bordet-top
+            p.BorTit #[strong Figura 13] #[br]Destornilladores
+            figure.mb-5
+              img(src='@/assets/curso/tema_1/img_39.png', alt='Texto que describa la imagen')
 
-          .jum_bg1.p-4
+          .p-4
             p #[strong Destornilladores de diferentes cabezas:] (estrella, rectos, etc.) y diferentes largos y anchos: su función principal es hacer girar los tornillos, ya sea para apretarlos o aflojarlos.
+      .col-lg-4.d-flex.mb-4.mb-lg-0
+        .jumbo_1.jum_bg2
+          .p-4.bg-white.bordet-top
+            p.BorTit #[strong Figura 14] #[br]Pinceles y brochas
+            figure.mb-5
+              img(src='@/assets/curso/tema_1/img_40.png', alt='Texto que describa la imagen')
+          .p-4
+            p.mb-5 #[strong Pinceles y brochas:] se utilizan para barrer el polvo y eliminar suciedades internas y externas.
       .col-lg-4.d-flex
-        .jumbo_1
-          .row.justify-content-center.mt-4
-            .col-lg-10
-              p.BorTit #[strong Figura 14] #[br]Pinceles y brochas
-              figure.mb-5
-                img(src='@/assets/curso/tema_1/img_40.png', alt='Texto que describa la imagen')
-          .jum_bg2.p-4
-            p #[strong Pinceles y brochas:] se utilizan para barrer el polvo y eliminar suciedades internas y externas.
-      .col-lg-4.d-flex
-        .jumbo_1
-          .row.justify-content-center.mt-4.d-flex
-            .col-lg-10
+        .jumbo_1.jum_bg2
+          .p-4.bg-white.bordet-top
               p.BorTit #[strong Figura 15] #[br]Aceitera
               figure.mb-5
                 img(src='@/assets/curso/tema_1/img_41.png', alt='Texto que describa la imagen')
-          .jum_bg2.p-4.d-flex
-            p #[strong Aceiteras con aceite de máquinas:] elemento indispensable para proveer el aceite a los equipos que lo requieran.
+          .p-4.d-flex
+            p.mb-5 #[strong Aceiteras con aceite de máquinas:] elemento indispensable para proveer el aceite a los equipos que lo requieran.
     
     .row.d-flex.mb-5
-      .col-lg-6.d-flex
-        .jumbo_1
-          .row.justify-content-center.mt-4
-            .col-lg-10
-              p.BorTit #[strong Figura 16] #[br]Pinza
-              figure.mb-5
-                img(src='@/assets/curso/tema_1/img_42.png', alt='Texto que describa la imagen')
+      .col-lg-6.d-flex.mb-4.mb-lg-0
+        .jumbo_1.jum_bg2
+          .p-4.bg-white.bordet-top
+            p.BorTit #[strong Figura 16] #[br]Pinza
+            figure.mb-5
+              img(src='@/assets/curso/tema_1/img_42.png', alt='Texto que describa la imagen')
 
-          .jum_bg2.p-4
+          .p-4
             p #[strong Pinzas, alicates:] su función es sujetar o doblar piezas, la pinza tiene la punta más pequeña, lo cual le permite acceder a sitios más estrechos. También tiene la posibilidad de cortar alambres o elementos similares.
       .col-lg-6.d-flex
-        .jumbo_2
-          .row.justify-content-center.mt-4
-            .col-lg-10
-              p.BorTit #[strong Figura 17] #[br]Llaves Allen
-              figure.mb-5
-                img(src='@/assets/curso/tema_1/img_43.png', alt='Texto que describa la imagen')
-          .jum_bg1.p-4
-            p #[strong Llaves Allen:] llaves para operar tornillos internos, o los que tienen de manera interna la ranura para moverlos.
+        .jumbo_2.jum_bg1
+          .p-4.bg-white.bordet-top
+            p.BorTit #[strong Figura 17] #[br]Llaves Allen
+            figure.mb-5
+              img(src='@/assets/curso/tema_1/img_43.png', alt='Texto que describa la imagen')
+          .p-4
+            p.mb-5 #[strong Llaves Allen:] llaves para operar tornillos internos, o los que tienen de manera interna la ranura para moverlos.
 
     .row.d-flex.mb-5
-      .col-lg-6.d-flex
-        .jumbo_2
-          .row.justify-content-center.mt-4
-            .col-lg-10
-              p.BorTit #[strong Figura 14] #[br]Llave inglesa ajustable
-              figure.mb-5
-                img(src='@/assets/curso/tema_1/img_44.png', alt='Texto que describa la imagen')
+      .col-lg-6.d-flex.mb-4.mb-lg-0
+        .jumbo_2.jum_bg1
+          .p-4.bg-white.bordet-top
+            p.BorTit #[strong Figura 18] #[br]Llave inglesa ajustable
+            figure.mb-5
+              img(src='@/assets/curso/tema_1/img_44.png', alt='Texto que describa la imagen')
 
-          .jum_bg1.p-4
-            p #[strong Llave inglesa:] también conocida como llave de expansión, es utilizada para apretar y aflojar tuercas y tornillos y su característica es que es ajustable, y sirve para intervenir diferentes diámetros y medidas de los tornillos.
+          .p-4.d-flex
+            p.mb-5 #[strong Llave inglesa:] también conocida como llave de expansión, es utilizada para apretar y aflojar tuercas y tornillos y su característica es que es ajustable, y sirve para intervenir diferentes diámetros y medidas de los tornillos.
       .col-lg-6.d-flex
-        .jumbo_1
-          .row.justify-content-center.mt-4
-            .col-lg-10
-              p.BorTit #[strong Figura 19] #[br]Compresor
-              figure.mb-5
-                img(src='@/assets/curso/tema_1/img_43.png', alt='Texto que describa la imagen')
-          .jum_bg2.p-4
+        .jumbo_1.jum_bg2
+          .p-4.bg-white.bordet-top
+            p.BorTit #[strong Figura 19] #[br]Compresor
+            figure.mb-5
+              img(src='@/assets/curso/tema_1/img_43.png', alt='Texto que describa la imagen')
+          .p-4
             p #[strong Compresor de aire con pistola:] máquina cuya función es tomar un fluido y darle potencia en su salida, estos fluidos pueden ser aire, gases y hasta pinturas. Se complementa colocando una pistola en su salida, la cual controla la cantidad y el sitio a donde saldrá el fluido. También, en lugar de pistola se les adapta a sistemas de operación de algunas máquinas y equipos de confección. 
 
     p Habitualmente cuando se adquiere la máquina, ella trae sus propias herramientas para el mantenimiento e intervenciones necesarias, por lo que se debe procurar conservarlas y ubicarlas en la gaveta de la máquina. 
