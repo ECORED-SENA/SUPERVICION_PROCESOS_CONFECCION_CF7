@@ -72,7 +72,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'istemas de lubricación en máquinas',
+        titulo: 'Sistemas de lubricación en máquinas',
         desarrolloContenidos: true,
         subMenu: [
           {

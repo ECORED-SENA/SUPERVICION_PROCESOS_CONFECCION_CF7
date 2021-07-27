@@ -621,7 +621,251 @@
                           span.text-bold.bg_num 6. 
                           | Palanca tirahilo.
 
+    h5 Fichas técnicas las máquinas
+
+    p Es un documento que permite la comunicación entre el proveedor que entrega las máquinas y herramientas con el maquilador de piezas cortadas. En este documento vienen consignadas todas las especificaciones y características de los equipos; así como la identificación de las partes, los cuidados, los sistemas de lubricación, las maneras de enhebrado, las referencias y toda la información que sea pertinente para su manejo.
+
+    p.mb-5 Es supremamente importante para programar las máquinas, y antes de operarlas, consultar de manera minuciosa las fichas técnicas y demás documentos que se tengan y que hagan referencia al equipo. Es importante que estos documentos estén bien custodiados y archivados, de manera que no se extravíen y cada vez que se necesite consultarlos, se pueda hacer de la manera rápida y efectiva. De igual manera, cada que se requiera un repuesto de la máquina es de mucha utilidad la información que hay en las fichas técnicas.
+
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        p.BorTit #[strong Tabla 2] #[br]Ejemplo de ficha técnica
+        figure
+          img(src='@/assets/curso/tema_1/img_38.png', alt='Texto que describa la imagen')
+          figcaption Nota. Tomada de Confecciones Badaam Ltda. (2020)
+
+    h5 Fichas técnicas de seguimiento y mantenimiento de las máquinas
+    p No se debe confundir este documento con la ficha técnica que trae la máquina cuando se adquiere, este documento contiene la información sobre las intervenciones que ha tenido la máquina, las fechas en que se han reparado o cambiado repuestos, así como los proveedores de servicios o productos que ha necesitado. La información contenida en este documento permite tomar las mejores decisiones cuando de mantenimiento del equipo de máquinas y herramientas se trata.
+
+    p Debe, por lo menos, traer información completa de la máquina en donde se incluyan sus características, la sección o área a que pertenece, el tipo de mantenimiento que se le realiza, la urgencia de la intervención, la descripción del servicio, las fechas, las personas responsables de solicitar, autorizar y revisar el servicio, entre otros aspectos.
+
+    h5.mb-5 A continuación, se muestra un ejemplo de un documento similar.
+
+    .row.justify-content-center
+      .col-lg-11
+        p.BorTit #[strong Figura 12] #[br]Ficha de seguimiento y mantenimiento
+        .tabla-a.color-acento-contenido.mb-5 
+          table
+            thead
+              tr
+                th(colspan=7) 
+                  h4 EMPRESA DE CONFECCIONES EL ENSAMBLE
+            tbody
+              tr 
+                td(colspan=2) 
+                  strong Fecha: 
+                td 
+                  strong Máquina:
+                td 
+                  strong Marca:
+                td 
+                  strong Referencia:
+                td(colspan=2)  
+                  strong Serie:
+              tr 
+                td(colspan=2)  
+                  strong Sección:
+                td 
+                  strong Proveedor:
+                td(colspan=2) 
+                  strong Catálogo:
+                td(colspan=2)  
+                  strong Número:
+              tr 
+                td(colspan=3,rowspan=2) 
+                  strong Observaciones:
+                td(colspan=4) 
+                  strong Herramienta:
+              tr 
+                td(colspan=2) 
+                  strong No. Motor:
+                td(colspan=2) 
+                  strong Color:
+            
+              tr.th_bg1
+                th Fecha
+              
+                th Situación actual diagnóstico
+             
+                th Intervención
+              
+                th(colspan=2) Proveedor
+              
+                th Situación final
+              
+                th Observaciones
+              tr 
+                td 
+                td
+                td
+                td(colspan=2)
+                td
+                td
+              tr 
+                td 
+                td
+                td
+                td(colspan=2)
+                td
+                td
+              tr 
+                td 
+                td
+                td
+                td(colspan=2)
+                td
+                td
+              tr 
+                td 
+                td
+                td
+                td(colspan=2)
+                td
+                td
+              tr 
+                td 
+                td
+                td
+                td(colspan=2)
+                td
+                td
+              tr 
+                td 
+                td
+                td
+                td(colspan=2)
+                td
+                td
+              tr 
+                td 
+                td
+                td
+                td(colspan=2)
+                td
+                td
+              tr 
+                td 
+                td
+                td
+                td(colspan=2)
+                td
+                td
+              tr.th_bg1
+                th(colspan=2) Autorizó
+                th Ejecutó
+                th(colspan=2) Revisó
+                th(colspan=2) Observaciones
+    h5 Tecnologías implementadas en las máquinas
+    p.mb-0 A través del tiempo las máquinas herramientas, al igual que las metodologías de trabajo, han venido teniendo cambios orientados a hacer las cosas más rápido (productividad), y con mejor cumplimiento de especificaciones (calidad). Con la implementación de dispositivos electrónicos, se obviaron pasos en las órdenes, movimientos y relación de velocidades, de tal manera que al año 2021 la industria de la confección está dotada de equipos autómatas, algunos puestos de trabajo los atienden robots, y existen softwares que han integrado varias operaciones.
+    p.mb-5 De manera funcional y elemental, a continuación, se muestra la relación entre tecnologías.
+
+    .row.justify-content-center
+      .col-lg-11
+        p.BorTit #[strong Tabla 3] #[br]Tecnologías implementadas en las máquinas 
+        .tabla-a.color-acento-contenido.mb-5 
+          table
+            thead
+              tr
+                th 
+                  h4 Actividad
+                th 
+                  h4 Convencional
+                th 
+                  h4 Electrónica o posesionadora
+            tbody
+              tr 
+                th.th_bg2 Rematar la costura.
+                td Se hace desde un elemento que se encuentra al lado derecho de la máquina, llamado rematador.
+                td Se realiza desde el pedal de la máquina. Se ahorra el tiempo de desplazamiento de la mano hasta el rematador.
+              tr 
+                th.th_bg2 Cortar el hilo después de terminar la operación.
+                td Se realiza de manera manual con un pulidor, o se le coloca detrás del pie prensatelas una cuchilla que haga esa función.
+                td Desde el pedal se activa un mecanismo que corta el hilo a ras de la planchuela y la costura. El gasto de hilo es menor, y el tiempo de pulida también, sin contar el ahorro del tiempo cuando se realiza manualmente.
+              tr 
+                th.th_bg2 Levantar el pie prensatela.
+                td.th En la relación operario-máquina, al estar sentado el operario en la máquina, a la altura de la rodilla se encuentra una pieza llamada rodillero, haciéndole presión se activa y se levanta el pie prensatelas. 
+                td Para levantar el pie prensatelas se utiliza también el pedal. Ahorra tiempo y fatiga en el trabajador.
+
+    separador
+
+    #t_1_3.titulo-segundo
+      .h4 1.3 Herramientas o equipos de mantenimiento de máquinas de coser
+
+    p El mantenimiento de las máquinas requiere una serie de instrumentos, implementos o herramientas para su ejecución, a continuación, se mencionan las más utilizadas.
+
+    .row.d-flex.mb-5
+      .col-lg-4.d-flex
+        .jumbo_2
+          .row.justify-content-center.mt-4
+            .col-lg-10
+              p.BorTit #[strong Figura 13] #[br]Destornilladores
+              figure.mb-5
+                img(src='@/assets/curso/tema_1/img_39.png', alt='Texto que describa la imagen')
+
+          .jum_bg1.p-4
+            p #[strong Destornilladores de diferentes cabezas:] (estrella, rectos, etc.) y diferentes largos y anchos: su función principal es hacer girar los tornillos, ya sea para apretarlos o aflojarlos.
+      .col-lg-4.d-flex
+        .jumbo_1
+          .row.justify-content-center.mt-4
+            .col-lg-10
+              p.BorTit #[strong Figura 14] #[br]Pinceles y brochas
+              figure.mb-5
+                img(src='@/assets/curso/tema_1/img_40.png', alt='Texto que describa la imagen')
+          .jum_bg2.p-4
+            p #[strong Pinceles y brochas:] se utilizan para barrer el polvo y eliminar suciedades internas y externas.
+      .col-lg-4.d-flex
+        .jumbo_1
+          .row.justify-content-center.mt-4.d-flex
+            .col-lg-10
+              p.BorTit #[strong Figura 15] #[br]Aceitera
+              figure.mb-5
+                img(src='@/assets/curso/tema_1/img_41.png', alt='Texto que describa la imagen')
+          .jum_bg2.p-4.d-flex
+            p #[strong Aceiteras con aceite de máquinas:] elemento indispensable para proveer el aceite a los equipos que lo requieran.
     
+    .row.d-flex.mb-5
+      .col-lg-6.d-flex
+        .jumbo_1
+          .row.justify-content-center.mt-4
+            .col-lg-10
+              p.BorTit #[strong Figura 16] #[br]Pinza
+              figure.mb-5
+                img(src='@/assets/curso/tema_1/img_42.png', alt='Texto que describa la imagen')
+
+          .jum_bg2.p-4
+            p #[strong Pinzas, alicates:] su función es sujetar o doblar piezas, la pinza tiene la punta más pequeña, lo cual le permite acceder a sitios más estrechos. También tiene la posibilidad de cortar alambres o elementos similares.
+      .col-lg-6.d-flex
+        .jumbo_2
+          .row.justify-content-center.mt-4
+            .col-lg-10
+              p.BorTit #[strong Figura 17] #[br]Llaves Allen
+              figure.mb-5
+                img(src='@/assets/curso/tema_1/img_43.png', alt='Texto que describa la imagen')
+          .jum_bg1.p-4
+            p #[strong Llaves Allen:] llaves para operar tornillos internos, o los que tienen de manera interna la ranura para moverlos.
+
+    .row.d-flex.mb-5
+      .col-lg-6.d-flex
+        .jumbo_2
+          .row.justify-content-center.mt-4
+            .col-lg-10
+              p.BorTit #[strong Figura 14] #[br]Llave inglesa ajustable
+              figure.mb-5
+                img(src='@/assets/curso/tema_1/img_44.png', alt='Texto que describa la imagen')
+
+          .jum_bg1.p-4
+            p #[strong Llave inglesa:] también conocida como llave de expansión, es utilizada para apretar y aflojar tuercas y tornillos y su característica es que es ajustable, y sirve para intervenir diferentes diámetros y medidas de los tornillos.
+      .col-lg-6.d-flex
+        .jumbo_1
+          .row.justify-content-center.mt-4
+            .col-lg-10
+              p.BorTit #[strong Figura 19] #[br]Compresor
+              figure.mb-5
+                img(src='@/assets/curso/tema_1/img_43.png', alt='Texto que describa la imagen')
+          .jum_bg2.p-4
+            p #[strong Compresor de aire con pistola:] máquina cuya función es tomar un fluido y darle potencia en su salida, estos fluidos pueden ser aire, gases y hasta pinturas. Se complementa colocando una pistola en su salida, la cual controla la cantidad y el sitio a donde saldrá el fluido. También, en lugar de pistola se les adapta a sistemas de operación de algunas máquinas y equipos de confección. 
+
+    p Habitualmente cuando se adquiere la máquina, ella trae sus propias herramientas para el mantenimiento e intervenciones necesarias, por lo que se debe procurar conservarlas y ubicarlas en la gaveta de la máquina. 
   
 </template>
 
