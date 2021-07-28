@@ -16,7 +16,7 @@
     p.mb-5 Para realizar el mantenimiento se requiere una serie de recursos relacionados con la parte técnica y administrativa. Estas actividades deben ser desarrolladas en orden lógico, y una de sus condiciones, y función principal, es que el equipo conserve un funcionamiento eficiente, seguro y que sus gastos sean racionales. 
 
     .cajon.color-primario.p-4.mb-5
-      p La finalidad del mantenimiento es alargar la vida útil de las máquinas y herramientas, y además que haya un ambiente de limpieza e higiene impecable, lo cual se verá reflejado en la productividad y calidad de la producción de la organización. 
+      p.mb-0 La finalidad del mantenimiento es alargar la vida útil de las máquinas y herramientas, y además que haya un ambiente de limpieza e higiene impecable, lo cual se verá reflejado en la productividad y calidad de la producción de la organización. 
 
     .h5.mb-0 Entre las funciones más importantes de este proceso, se pueden definir las siguientes:
 

@@ -55,7 +55,7 @@
 
         .row
           .col-lg-6.mb-5
-            p.BorTit.mb-4 #[strong Figura 2] #[br]Elementos que componen el ajuste: pie prensatelas, dientes, planchuela y agujas.
+            p.BorTit.mb-5 #[strong Figura 2] #[br]Elementos que componen el ajuste: pie prensatelas, dientes, planchuela y agujas.
             figure
               img(src='@/assets/curso/tema_1/img_5.png', alt='Texto que describa la imagen')
               figcaption Nota. Tomada de https://pixabay.com/images/id-1737773/
@@ -802,7 +802,7 @@
               img(src='@/assets/curso/tema_1/img_39.png', alt='Texto que describa la imagen')
 
           .p-4
-            p #[strong Destornilladores de diferentes cabezas:] (estrella, rectos, etc.) y diferentes largos y anchos: su función principal es hacer girar los tornillos, ya sea para apretarlos o aflojarlos.
+            p.mb-0 #[strong Destornilladores de diferentes cabezas:] (estrella, rectos, etc.) y diferentes largos y anchos: su función principal es hacer girar los tornillos, ya sea para apretarlos o aflojarlos.
       .col-lg-4.d-flex.mb-4.mb-lg-0
         .jumbo_1.jum_bg2
           .p-4.bg-white.bordet-top
@@ -810,7 +810,7 @@
             figure.mb-5
               img(src='@/assets/curso/tema_1/img_40.png', alt='Texto que describa la imagen')
           .p-4
-            p.mb-5 #[strong Pinceles y brochas:] se utilizan para barrer el polvo y eliminar suciedades internas y externas.
+            p.mb-0 #[strong Pinceles y brochas:] se utilizan para barrer el polvo y eliminar suciedades internas y externas.
       .col-lg-4.d-flex
         .jumbo_1.jum_bg2
           .p-4.bg-white.bordet-top
@@ -818,7 +818,7 @@
               figure.mb-5
                 img(src='@/assets/curso/tema_1/img_41.png', alt='Texto que describa la imagen')
           .p-4.d-flex
-            p.mb-5 #[strong Aceiteras con aceite de máquinas:] elemento indispensable para proveer el aceite a los equipos que lo requieran.
+            p.mb-0 #[strong Aceiteras con aceite de máquinas:] elemento indispensable para proveer el aceite a los equipos que lo requieran.
     
     .row.d-flex.mb-5
       .col-lg-6.d-flex.mb-4.mb-lg-0
@@ -829,7 +829,7 @@
               img(src='@/assets/curso/tema_1/img_42.png', alt='Texto que describa la imagen')
 
           .p-4
-            p #[strong Pinzas, alicates:] su función es sujetar o doblar piezas, la pinza tiene la punta más pequeña, lo cual le permite acceder a sitios más estrechos. También tiene la posibilidad de cortar alambres o elementos similares.
+            p.mb-0 #[strong Pinzas, alicates:] su función es sujetar o doblar piezas, la pinza tiene la punta más pequeña, lo cual le permite acceder a sitios más estrechos. También tiene la posibilidad de cortar alambres o elementos similares.
       .col-lg-6.d-flex
         .jumbo_2.jum_bg1
           .p-4.bg-white.bordet-top
@@ -837,7 +837,7 @@
             figure.mb-5
               img(src='@/assets/curso/tema_1/img_43.png', alt='Texto que describa la imagen')
           .p-4
-            p.mb-5 #[strong Llaves Allen:] llaves para operar tornillos internos, o los que tienen de manera interna la ranura para moverlos.
+            p.mb-0 #[strong Llaves Allen:] llaves para operar tornillos internos, o los que tienen de manera interna la ranura para moverlos.
 
     .row.d-flex.mb-5
       .col-lg-6.d-flex.mb-4.mb-lg-0
@@ -848,7 +848,7 @@
               img(src='@/assets/curso/tema_1/img_44.png', alt='Texto que describa la imagen')
 
           .p-4.d-flex
-            p.mb-5 #[strong Llave inglesa:] también conocida como llave de expansión, es utilizada para apretar y aflojar tuercas y tornillos y su característica es que es ajustable, y sirve para intervenir diferentes diámetros y medidas de los tornillos.
+            p.mb-0 #[strong Llave inglesa:] también conocida como llave de expansión, es utilizada para apretar y aflojar tuercas y tornillos y su característica es que es ajustable, y sirve para intervenir diferentes diámetros y medidas de los tornillos.
       .col-lg-6.d-flex
         .jumbo_1.jum_bg2
           .p-4.bg-white.bordet-top
@@ -856,7 +856,7 @@
             figure.mb-5
               img(src='@/assets/curso/tema_1/img_43.png', alt='Texto que describa la imagen')
           .p-4
-            p #[strong Compresor de aire con pistola:] máquina cuya función es tomar un fluido y darle potencia en su salida, estos fluidos pueden ser aire, gases y hasta pinturas. Se complementa colocando una pistola en su salida, la cual controla la cantidad y el sitio a donde saldrá el fluido. También, en lugar de pistola se les adapta a sistemas de operación de algunas máquinas y equipos de confección. 
+            p.mb-0 #[strong Compresor de aire con pistola:] máquina cuya función es tomar un fluido y darle potencia en su salida, estos fluidos pueden ser aire, gases y hasta pinturas. Se complementa colocando una pistola en su salida, la cual controla la cantidad y el sitio a donde saldrá el fluido. También, en lugar de pistola se les adapta a sistemas de operación de algunas máquinas y equipos de confección. 
 
     p Habitualmente cuando se adquiere la máquina, ella trae sus propias herramientas para el mantenimiento e intervenciones necesarias, por lo que se debe procurar conservarlas y ubicarlas en la gaveta de la máquina. 
   

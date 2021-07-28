@@ -48,11 +48,11 @@
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             p.mb-0 Es muy importante establecer por escrito todas las acciones que se definan para la mejora y conservación de los equipos, en este plan debe quedar claro el tipo de actividad, el responsable de la ejecución, el momento y lugar de la acción, la forma de realización y el porqué de la acción, de esta forma, se establecen responsabilidades e hitos de control sobre el plan de mejoramiento. 
-            i.fas.fa-quote-right
+            i.fas.fa-quote-right.d-flex.justify-content-end
 
       .col-lg-4
         figure.mb-5
-          img(src='@/assets/curso/tema_4/img_2.png', alt='Texto que describa la imagen')
+          img.img-a(src='@/assets/curso/tema_4/img_2.png', alt='Texto que describa la imagen')
 
     .cajon.color-primario.color-primario.p-4.mb-5
       .row.justify-content-center
@@ -90,7 +90,7 @@
     .row.mb-5
       .col-lg-4
         figure.mb-5
-          img(src='@/assets/curso/tema_4/img_3.png', alt='Texto que describa la imagen')
+          img.img-a(src='@/assets/curso/tema_4/img_3.png', alt='Texto que describa la imagen')
       .col-lg-8
         .hr.mb-3
         ul.lista-ul--color
@@ -126,7 +126,7 @@
           img(src='@/assets/curso/tema_4/img_4.png', alt='Texto que describa la imagen')
    
     .cajon.color-secundario.p-4.mb-5
-      p Como cualquier actividad, la planeación del mantenimiento para la planta de confecciones establece que se deben definir cuáles son las actividades a realizar, en un orden lógico. A continuación, se presenta un ejemplo del diagrama de flujo de actividades.
+      p.mb-0 Como cualquier actividad, la planeación del mantenimiento para la planta de confecciones establece que se deben definir cuáles son las actividades a realizar, en un orden lógico. A continuación, se presenta un ejemplo del diagrama de flujo de actividades.
 
 
     .row.justify-content-center.mb-5
@@ -192,7 +192,7 @@
     .cajon.color-secundario.p-4
       P 
         strong Es muy importante tener un sitio destinado a estos menesteres para evitar que:
-      ul.lista-ul.color2
+      ul.lista-ul.color2.mb-0
         li
           i.fas.fa-atom
           span.c1 Halla herramientas por todos lados de la empresa.

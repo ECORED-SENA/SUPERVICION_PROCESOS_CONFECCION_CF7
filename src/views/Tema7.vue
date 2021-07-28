@@ -33,7 +33,7 @@
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
             p.text-regular De acuerdo con Tabares (1990) en su cartilla Mantenimiento en la industria de la confección (problemas técnicos y soluciones) se evidencian posibles problemas mecánicos que pueden surgir con mayor frecuencia con las máquinas de confección, así como la solución sugerida. Estos se muestran en la siguiente tabla, donde se eligieron problemas menores para ser corregidos, puesto que otros de mayor magnitud no entran en la categoría de primeros auxilios en mantenimiento de máquinas de confección.
-              i.fas.fa-quote-right
+            i.fas.fa-quote-right.d-flex.justify-content-end
 
     p.BorTit #[strong Tabla 5] #[br]Mantenimiento y atención a problemas menores
     .tabla-a.color-acento-contenido.mb-5 

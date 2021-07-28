@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Planes de mantenimiento de maquinaria y equipos',
     descripcionCurso:
       'El presente componente ilustra sobre la manera de diseñar e implementar un programa de mantenimiento de maquinaria y equipos de confección industrial, a través del conocimiento de los sistemas de funcionamiento de dichos equipos. También se evidencia la importancia de una gestión apropiada que permita el mejor aprovechamiento de las máquinas.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {

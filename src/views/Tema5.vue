@@ -11,7 +11,7 @@
     .row.mb-5
       .col-lg-4
         figure
-          img(src='@/assets/curso/tema_5/img_1.png', alt='Texto que describa la imagen')
+          img.img-a(src='@/assets/curso/tema_5/img_1.png', alt='Texto que describa la imagen')
       .col-lg-8
         p Es una herramienta de trabajo empresarial que se fundamenta en vincular el tema del equipo de máquinas y herramientas al plano productivo, relaciona de manera directa el impacto que genera en la producción los paros producidos por máquinas que no funcionan; estos paros significan el desaprovechamiento de la capacidad instalada, por lo que el TPM busca eliminar las causas que originan esos paros y esto se logra por medio de una gestión de mantenimiento efectiva; también se asocian algunos problemas de calidad que se pueden resolver manteniendo un equipo de maquinaria en excelentes condiciones; así mismo, se pueden evitar accidentes de trabajo con una buena administración de los programas de mantenimiento.
 
@@ -49,7 +49,7 @@
           
         .col-lg-4
           figure
-            img(src='@/assets/curso/tema_5/img_2.png', alt='Texto que describa la imagen')
+            img.img-a(src='@/assets/curso/tema_5/img_2.svg', alt='Texto que describa la imagen')
       
     p.text-center.mb-5 
       strong Según BSG Institute (2020), toda la implementación de TPM, se debe apoyar en 8 pilares para lograr los objetivos de eliminar o reducir las pérdidas.
@@ -58,7 +58,7 @@
       .col-lg-8
         p.BorTit #[strong Figura 25] #[br]Los ocho pilares TPM
         figure.mb-5
-          img(src='@/assets/curso/tema_5/img_3.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema_5/img_3.svg', alt='Texto que describa la imagen')
         p.mb-5 Se invita a profundizar a través del siguiente video sobre la metodología TPM para la realización de un mantenimiento productivo total:
 
         .row.justify-content-center

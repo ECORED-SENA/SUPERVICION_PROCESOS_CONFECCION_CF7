@@ -43,7 +43,7 @@
           
         .col-lg-4
           figure
-            img(src='@/assets/curso/tema_6/img_1.png', alt='Texto que describa la imagen')
+            img.img-a(src='@/assets/curso/tema_6/img_1.png', alt='Texto que describa la imagen')
       
     p.text-center.mb-5 
       strong A continuación, se pueden observar las guías más usadas.
@@ -51,8 +51,37 @@
     .row.justify-content-center
       .col-lg-8
         p.BorTit #[strong Figura 26] #[br]Guías
-        figure.mb-5
-          img(src='@/assets/curso/tema_6/img_2.png', alt='Texto que describa la imagen')
+        .row.justify-content-center
+          .col-lg-3
+            figure.mb-3
+              img.img-a(src='@/assets/curso/tema_6/img_2.png', alt='Texto que describa la imagen')
+            h5.text-center Guía trébol
+          .col-lg-3
+            figure.mb-3
+              img.img-a(src='@/assets/curso/tema_6/img_3.png', alt='Texto que describa la imagen')
+            h5.text-center Guía en forma T
+          .col-lg-3
+            figure.mb-3
+              img.img-a(src='@/assets/curso/tema_6/img_4.png', alt='Texto que describa la imagen')
+            h5.text-center  Guía de rodillo
+          .col-lg-3
+            figure.mb-3
+              img.img-a(src='@/assets/curso/tema_6/img_5.png', alt='Texto que describa la imagen')
+            h5.text-center Guía de tope para fileteadora
+        .row.justify-content-center
+          .col-lg-3
+            figure.mb-3
+              img.img-a(src='@/assets/curso/tema_6/img_6.png', alt='Texto que describa la imagen')
+            h5.text-center Dobladillo sencillo
+          .col-lg-3
+            figure.mb-3
+              img.img-a(src='@/assets/curso/tema_6/img_7.png', alt='Texto que describa la imagen')
+            h5.text-center Guía tipo avión
+          .col-lg-3
+            figure.mb-3
+              img.img-a(src='@/assets/curso/tema_6/img_8.png', alt='Texto que describa la imagen')
+            h5.text-center Guía tubular
+        
         
 
 </template>
