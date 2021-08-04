@@ -18,7 +18,7 @@
     separador
 
     #t_3_1.titulo-segundo
-      .h4 3.1 Tipos de lubricación 
+      .h2 3.1 Tipos de lubricación 
 
     .row
       .col-lg-8
@@ -32,34 +32,35 @@
 
     h5.mb-5.text-center A continuación, se pueden observar los tipos de lubricación utilizados. 
 
-    
-    .tarjeta-avatar-b.mb-5
-      img(src='@/assets/curso/tema_3/img_3.svg' alt='AvatarTop')
-      .tarjeta.tarjeta--bg1
-        .p-4
-          h2 Lubricación automática
-          p Está implementada a través del bombeo de grasa o aceite desde el reservorio central a las diferentes zonas de lubricación de forma automática, está basada en los requerimientos técnicos especificadas por los fabricantes de maquinarias.
+    .row.justify-content-center
+      .col-lg-10
+        .tarjeta-avatar-b.mb-5
+          img(src='@/assets/curso/tema_3/img_3.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--bg1
+            .p-4
+              h2 Lubricación automática
+              p Está implementada a través del bombeo de grasa o aceite desde el reservorio central a las diferentes zonas de lubricación de forma automática, está basada en los requerimientos técnicos especificados por los fabricantes de maquinarias.
 
-          p Es aplicada a máquinas industriales caracterizadas por un trabajo continuo a gran velocidad, estas máquinas están equipadas de una bomba propulsora de aceite que mueve el lubricante por gravedad.
-    
-    .tarjeta-avatar-b.mb-5
-      img(src='@/assets/curso/tema_3/img_4.svg' alt='AvatarTop')
-      .tarjeta.tarjeta--bg1
-        .p-4
-          h2 Lubricación por mecha
-          p Sistema implementado en el principio de la capilaridad de un material poroso que se genera como mecha el cual absorbe el lubricante para generar el contacto con las piezas en movimiento.
+              p.mb-0 Es aplicada a máquinas industriales caracterizadas por un trabajo continuo a gran velocidad, estas máquinas están equipadas de una bomba propulsora de aceite que mueve el lubricante por gravedad.
+        
+        .tarjeta-avatar-b.mb-5
+          img(src='@/assets/curso/tema_3/img_4.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--bg2
+            .p-4
+              h2 Lubricación por mecha
+              p.mb-0 Sistema implementado en el principio de la capilaridad de un material poroso que se genera como mecha el cual absorbe el lubricante para generar el contacto con las piezas en movimiento.
 
-    .tarjeta-avatar-b.mb-5
-      img(src='@/assets/curso/tema_3/img_5.svg' alt='AvatarTop')
-      .tarjeta.tarjeta--bg1
-        .p-4
-          h2 Lubricación manual
-          p Sistema de lubricación basado en la implementación de un mecanismo como pistola de engrase o bomba manual que genera el lubricante a presión, por baño de aceite o por gotas.
+        .tarjeta-avatar-b.mb-5
+          img(src='@/assets/curso/tema_3/img_5.svg' alt='AvatarTop')
+          .tarjeta.tarjeta--bg1
+            .p-4
+              h2 Lubricación manual
+              p.mb-0 Sistema de lubricación basado en la implementación de un mecanismo como pistola de engrase o bomba manual que genera el lubricante a presión, por baño de aceite o por gotas.
 
     separador
 
     #t_3_2.titulo-segundo
-      .h4 3.2 Tipos de lubricantes
+      .h2 3.2 Tipos de lubricantes
 
     p.mb-5 Los equipos de lubricación son de variada composición y generalmente emplean los siguientes. 
 
@@ -69,14 +70,14 @@
           img(src='@/assets/curso/tema_3/img_6.svg' alt='AvatarTop')
           .tarjeta.tarjeta--bg1
             .p-4
-              h2 Lubricación por aceite
+              h2 Lubricantes por aceite
               p Son altamente utilizados en la confección, pues ceden bien al calor y crean una fina capa generando una total cobertura y capacidad de fluencia. 
               p Son utilizados en piezas de alta temperatura o revoluciones de fricción.
       .col-lg-6.d-flex
         .tarjeta-avatar-b.mb-5
           .tarjeta.tarjeta--bg2.tar-av
             .p-4
-              h2 Lubricación por grasa
+              h2 Lubricantes por grasa
               p Conformados por un aceite base ligado por un espesante que garantiza permanencia en el punto de lubricación, posibilitando una protección que sella las piezas de la fricción, el desgate e influencias de humedad o sustancias extrañas.
           img(src='@/assets/curso/tema_3/img_7.svg' alt='AvatarTop')
 
@@ -100,7 +101,7 @@
 
 
     #t_3_3.titulo-segundo
-      .h4 3.2 Proceso de lubricación de máquinas de coser 
+      .h2 3.3 Proceso de lubricación de máquinas de coser 
 
     p.mb-5 Las máquinas de coser requieren un sistema permanente de lubricación como un proceso preventivo de mantenimiento que alargará la vida útil de la máquina. Generalmente, se pueden definir tres pasos básicos para estos procesos, a saber:
 

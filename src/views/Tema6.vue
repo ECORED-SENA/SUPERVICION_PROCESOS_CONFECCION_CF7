@@ -59,7 +59,7 @@
           .col-lg-3
             figure.mb-3
               img.img-a(src='@/assets/curso/tema_6/img_3.png', alt='Texto que describa la imagen')
-            h5.text-center Guía en forma T
+            h5.text-center Guía en forma de T
           .col-lg-3
             figure.mb-3
               img.img-a(src='@/assets/curso/tema_6/img_4.png', alt='Texto que describa la imagen')
@@ -72,7 +72,7 @@
           .col-lg-3
             figure.mb-3
               img.img-a(src='@/assets/curso/tema_6/img_6.png', alt='Texto que describa la imagen')
-            h5.text-center Dobladillo sencillo
+            h5.text-center Dobladillador sencillo
           .col-lg-3
             figure.mb-3
               img.img-a(src='@/assets/curso/tema_6/img_7.png', alt='Texto que describa la imagen')

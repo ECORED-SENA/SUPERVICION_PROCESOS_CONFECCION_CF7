@@ -32,7 +32,7 @@
               span.c1 El hilo que sea del calibre, el color, la composición y la posición solicitada.
             li
               i.fas.fa-atom
-              span.c1 El hilo mediante los guías hilos debe ser tensionados de la manera requerida y de acuerdo con el tipo de tejido que se va a coser.
+              span.c1 El hilo mediante los guía hilos debe ser tensionado de la manera requerida y de acuerdo con el tipo de tejido que se va a coser.
             li
               i.fas.fa-atom
               span.c1 El pie prensatelas debe cumplir la especificación solicitada para el margen de costura.
@@ -55,13 +55,13 @@
         figure.mb-5
           img(src='@/assets/curso/tema_9/img_3.png', alt='Texto que describa la imagen')
 
-        p.mb-5 Para concluir este tema, se invita a ver el siguiente video de la puesta a punto de una máquina de coser, en este caso de la marca Paff.
+        p.mb-5 Para concluir este tema, se invita a ver el siguiente video de la puesta a punto de una máquina de coser, en este caso de la marca Pfaff.
 
         .row.justify-content-center
           .col-lg-10
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=YNf0salcrlc&ab_channel=MecanicaConfeccion" target="_blank")
+            a.anexo.mb-4.mb-lg-0.botton--bg2(href="https://www.youtube.com/watch?v=YNf0salcrlc&ab_channel=MecanicaConfeccion" target="_blank")
               .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
+                img(src="@/assets/template/icono-link-1.svg")
               .anexo__texto
                 p #[strong Enlace web.] Mecánica de confección. (2018). Puesta a punto de las máquinas de coser. 
 

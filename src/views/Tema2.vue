@@ -18,7 +18,7 @@
     .cajon.color-primario.p-4.mb-5
       p.mb-0 La finalidad del mantenimiento es alargar la vida útil de las máquinas y herramientas, y además que haya un ambiente de limpieza e higiene impecable, lo cual se verá reflejado en la productividad y calidad de la producción de la organización. 
 
-    .h5.mb-0 Entre las funciones más importantes de este proceso, se pueden definir las siguientes:
+    .h5.mb-5 Entre las funciones más importantes de este proceso, se pueden definir las siguientes:
 
     .row.mb-5.d-flex
       .col-lg-8.mb-5
@@ -56,7 +56,7 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-atom
-                | resentar informes a la gerencia, donde se hagan recomendaciones para realizar acciones que mejoren la estructura del plan de mantenimiento a todos los niveles.
+                | Presentar informes a la gerencia, donde se hagan recomendaciones para realizar acciones que mejoren la estructura del plan de mantenimiento a todos los niveles.
         .hr.mb-3
         .row.justify-content-center
           .col-lg-11
@@ -64,6 +64,7 @@
               li 
                 i.fas.fa-atom
                 | Administrar de manera idónea todos los recursos asignados a este departamento.
+        .hr.mb-3
 
       .col-lg-4 
         figure
@@ -104,12 +105,14 @@
     separador
 
     #t_2_1.titulo-segundo
-      .h4 2.1 Tipos de mantenimiento
+      h2 2.1 Tipos de mantenimiento
 
-    p.mb-5 De acuerdo con la naturaleza de la empresa, su tamaño, el equipo de máquinas y herramientas de las que dispone, y según las políticas administrativas que tiene establecidas, se determina de qué manera se implementará el mantenimiento. Estos no son excluyentes, muchos son complementarios y para realizar cualquiera de ellos es muy importante la definición de recursos a utilizar, los cuales, al final de la actividad, deben quedar registrados todos los resultados. 
+    p De acuerdo con la naturaleza de la empresa, su tamaño, el equipo de máquinas y herramientas de las que dispone, y según las políticas administrativas que tiene establecidas, se determina de qué manera se implementará el mantenimiento. Estos no son excluyentes, muchos son complementarios y para realizar cualquiera de ellos es muy importante la definición de recursos a utilizar, los cuales, al final de la actividad, deben quedar registrados todos los resultados. 
+
+    p.mb-5 A continuación, se presentan algunos. 
 
     LineaTiempoD.color-primario
-      .row.text-small(numero="1" titulo="Mantenimiento diario") 
+      .row(numero="1" titulo="Mantenimiento diario") 
         .col-lg-12
           p Se refiere a actividades orientadas a conservar las máquinas y herramientas de manera apropiada. Al referirse a realizar estas actividades con una frecuencia de 24 horas, aproximadamente, hay que tener en cuenta la carga de trabajo a la que están siendo sometidas, al tipo de tejido que están trabajando y la velocidad de costura a las que trabajan estas máquinas, eso hace que estén siendo sometidas a mayor o menor trabajo. 
 
@@ -148,7 +151,7 @@
               figure
                 img(src='@/assets/curso/tema_2/img_6.png', alt='Texto que describa la imagen')
 
-      .row.text-small(numero="2" titulo="Mantenimiento preventivo") 
+      .row(numero="2" titulo="Mantenimiento preventivo") 
         .col-lg-8
           p Se realiza cada 15, 30 o 45 días e, igualmente, como criterio para decidir cada cuánto se debe hacer, se toma en cuenta la cantidad de trabajo a la que es sometida la maquinaria, así como los horarios de trabajo; se realiza con el propósito de eliminar basuras que pueden contribuir al desgaste de piezas y de identificar problemas antes de que sucedan y, de esta manera, evitar problemas mayores. Habitualmente, se revisa el sistema de lubricación, las piezas que tienen más fricción y las áreas más susceptibles de recoger mugre, se desmontan elementos que protegen mecanismos para realizar una revisión más minuciosa, estas partes pueden estar ensambladas a presión o atornilladas.
 
@@ -166,7 +169,7 @@
               img(src='@/assets/curso/tema_2/img_8.png', alt='Texto que describa la imagen')
               figcaption Nota. Tomada de Cabanillas (2018)
 
-      .row.text-small(numero="3" titulo="Mantenimiento correctivo")   
+      .row(numero="3" titulo="Mantenimiento correctivo")   
         .col-lg-12
           p Cuando de manera desafortunada se presentan situaciones de mecánica que no se pudieron evitar con el mantenimiento preventivo, se tendrá que recurrir a un arreglo más especializado y del cual se hará cargo una mano de obra más técnica, con el fin de tener un diagnóstico e intervención más profesional, de la reparación o el reemplazo de una pieza. Es importante para ayudar a detectar el daño, tener las evidencias de las últimas costuras que realizó, o testimonio del último comportamiento. Para dar atención de manera intempestiva a estos casos donde se debe hacer una reparación del equipo y corregir la situación que no lo deja trabajar, es importante tener un inventario racional de repuestos y de herramientas. Una máquina detenida mientras se repara, genera una fractura en el desarrollo normal de los procesos y afecta la facturación de la empresa.
 
@@ -177,7 +180,7 @@
               img(src='@/assets/curso/tema_2/img_9.png', alt='Texto que describa la imagen')
               figcaption Nota. Tomada de Cabanillas (2018)
 
-      .row.text-small(numero="4" titulo="Mantenimiento programado")
+      .row(numero="4" titulo="Mantenimiento programado")
         .col-lg-6
           p Se refiere a actividades que se planifican con el fin de detectar comportamientos anormales, en equipos que son muy sensibles al cumplimiento de la producción. De acuerdo con cada situación en particular se determinan los tiempos y los criterios con que se va a hacer este seguimiento. Como todos los tipos de mantenimiento el registro de las anormalidades o desviaciones se debe registrar para con esa información ir tomando las mejores decisiones. La información entregada por el fabricante de los equipos se debe tener en cuenta para realizar este tipo de actividad.
 
@@ -185,7 +188,7 @@
           figure
             img(src='@/assets/curso/tema_2/img_10.png', alt='Texto que describa la imagen')
 
-      .row.text-small(numero="5" titulo="Mantenimiento general")
+      .row(numero="5" titulo="Mantenimiento general")
         .col-lg-12
           p Al referirse al mantenimiento que se realiza periódicamente y de manera general a todas las máquinas, herramientas e instalaciones locativas, se habla de un mantenimiento general; este tipo de actividad no excluye ninguna de las otras que se realizan en la empresa. Por ejemplo, como política a veces se tiene que cada año, antes de reiniciar labores, se hace un mantenimiento general con el fin de remediar o evitar asuntos que los otros mantenimientos no lograron. Se debe incluir en este mantenimiento en las empresas de confección, también el sistema eléctrico y de computación, al igual que el equipo automotor.
 
@@ -199,6 +202,57 @@
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[strong Enlace web.] Durán, P., D. (2013). Preparación de máquinas de corte, ensamblado y acabado. IC Editorial.
+
+    separador
+
+    #t_2_2.titulo-segundo
+      h2 2.2 Seguimiento a las máquinas y acciones de mantenimiento 
+
+    .row.justify-content-center
+      .col-lg-10
+        p.BorTit #[strong Tabla 4] #[br]Formato para reglamentar actividades de mantenimiento
+        .tabla-a.color-acento-contenido.mb-5 
+          table
+            thead
+              tr
+                th Fecha
+                th Máquina
+                th Ref. y No.
+                th(colspan=2) Actividad
+                th Frecuencia
+                th Responsable
+            tbody
+              tr.text-center
+                td 
+                td(rowspan=5) Fileteadora con puntada de seguridad
+                td(rowspan=5) Ref. 1278 N.° 123456
+                td(colspan=2) Aseo de planchuela, dientes y portaconos	
+                td Semanal	
+                td Personal operativo
+              tr.text-center
+                td
+                td(colspan=2) Lubricación	
+                td Quincenal	
+                td Personal operativo 
+              tr.text-center
+                td
+                td(colspan=2) Limpieza general	
+                td Mensual	
+                td Personal operativo
+              tr.text-center
+                td
+                td(colspan=2) Mantenimiento correctivo	
+                td Cada que sea necesario	
+                td Mecánico
+              tr.text-center
+                td
+                td(colspan=2) Instalar pieza de repuesto	
+                td Cada que sea necesario	
+                td Mecánico
+              
+
+
+    
 
 
 </template>

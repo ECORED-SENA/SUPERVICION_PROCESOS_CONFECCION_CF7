@@ -18,7 +18,7 @@
           img(src='@/assets/curso/tema_7/img_1.png', alt='Texto que describa la imagen')
 
     .cajon.color-secundario.p-4.mb-5
-      p Los casos más comunes que se presentan son: agujas mal colocadas o elegidas, mal enhebrado de la máquina, mal puesto el carretel en la bobina, tensiones mal calibradas e hilos mal puestos en el portaconos, entre otros
+      p Los casos más comunes que se presentan son: agujas mal colocadas o elegidas, mal enhebrado de la máquina, mal puesto el carretel en la bobina, tensiones mal calibradas e hilos mal puestos en el portaconos, entre otros.
 
     p En el tema de mantenimiento, el personal operativo, tiene unas responsabilidades específicas, una de las cuales es atender el mantenimiento preventivo, como la lubricación y el aseo de las máquinas. Como en todo escenario laboral, usualmente suceden ciertos percances que podrían pensarse como situaciones problemáticas para llevar a cabo cualquier proceso o acción; y el área del mantenimiento de máquinas no es la excepción, puesto que en las plantas de confección comúnmente se presentan ciertos elementos que conllevan a una revisión para determinar la gravedad y solución de un problema. 
 
@@ -65,7 +65,7 @@
           tr
             td Aguja muy delgada para hilo empleado.	
             td Cambiar aguja por una más gruesa. 
-              p Si es posible cambiar hilo
+              p Si es posible cambiar hilo.
           tr
             td Sistema de aguja inadecuada.	
             td Colocar aguja apropiada.
@@ -82,8 +82,8 @@
             td Punta del tomador de lazada rota.	
             td Cambiar tomador de lazada.
           tr
-            td Palanca tirahílo con desgastes o desincronizada.	
-            td Pulir o cambiar palanca tirahílo sincronizar correctamente.
+            td Palanca tirahilo con desgastes o desincronizada.	
+            td Pulir o cambiar palanca tirahilo; sincronizar correctamente.
           tr
             td Prensatelas descentrado o con rebabas.	
             td Centrar prensatelas, pulir o cambiarlo.
@@ -98,7 +98,7 @@
             td Disminuir tensión inferior; revisar sincronización del mecanismo alimentador.
           tr
             td Recalentamiento de aguja.	
-            td Rebajar la velocidad a la máquina o lubricar el hilo si es posible
+            td Rebajar la velocidad a la máquina o lubricar el hilo si es posible.
           tr
             th(rowspan=6).th_bg2 Costuras de mala calidad
             td Pie prensatelas gastado.	
@@ -136,13 +136,13 @@
             td Pulir tomador de lazada.
           tr
             td Hilo inferior no sale libremente.	
-            td Revisar enhebrado a partir del portaconos, revisar caja bobina si es de este sistema la máquina.
+            td Revisar enhebrado a partir del portaconos, revisar caja, bobina, si es de este sistema la máquina.
           tr
             td Tensión del hilo inadecuado.	
             td Utilizar tensión apropiada.
           tr
-            td Mal funcionamiento del resorte tirahílo o falta de este.	
-            td Sincronizarlo correctamente colocarle el resorte.
+            td Mal funcionamiento del resorte tirahilo o falta de este.	
+            td Sincronizarlo correctamente, colocarle el resorte.
           tr
             th(rowspan=9).th_bg2 Puntadas que saltan (Bastas)
             td Aguja despuntada o torcida.	
@@ -161,9 +161,9 @@
             td Centrar con relación a la aguja.
           tr
             td Tela con demasiado apresto.	
-            td Cambiar sistema de aguja lubricar el hilo.
+            td Cambiar sistema de aguja, lubricar el hilo.
           tr
-            td Resorte tirahílo no funciona correctamente.	
+            td Resorte tirahilo no funciona correctamente.	
             td Sincronizar correctamente el resorte.
           tr
             td Hilo de mala calidad.	
@@ -191,15 +191,15 @@
             td Dientes muy gastados.	
             td Cambiar los dientes.
           tr 
-            td Dientes muy bajos inadecuados o sucios.	
+            td Dientes muy bajos, inadecuados o sucios.	
             td Dar la altura correcta, cambiarlos por unos apropiados para el material a coser, limpiarlos.
           tr
             td Mecanismo del prensatelas pegado.	
             td Suavizar y lubricar el mecanismo.
           tr
             th(rowspan=9).th_bg2 Costuras de mala calidad
-            td Defectos en el ojo de la palanca tirahílo.	
-            td Pulir o cambiar la palanca tirahílo.
+            td Defectos en el ojo de la palanca tirahilo.	
+            td Pulir o cambiar la palanca tirahilo.
           tr
             td Tensor defectuoso.	
             td Revisar corregir y limpiar el tensor.
@@ -233,7 +233,7 @@
             td Utilizar alimentador diferencial, revisar tensiones de los hilos, manipular bien la tela.
           tr
             td Huellas de los dientes o el prensatelas.	
-            td Revisar y pulir los dientes - disminuir presión del prensatelas revisar mecanismo del prensatelas.
+            td Revisar y pulir los dientes - disminuir presión del prensatelas, revisar mecanismo del prensatelas.
           tr
             td La tela sufre enganchones.	
             td Revisar y pulir la plancha, dientes y prensatelas.
@@ -245,7 +245,7 @@
             td Disminuir la velocidad de la máquina. Emplear aguja con revestimiento - lubricar el hilo.
           tr
             td La prensa se ensucia.	
-            td Revisar: sistema de lubricación - bujes del mecanismo del Prensatelas, bujes del mecanismo de la barra de aguja - empaques de la máquina, limpiar dientes y gancho rotatorio con acetona.
+            td Revisar: sistema de lubricación - bujes del mecanismo del prensatelas, bujes del mecanismo de la barra de aguja - empaques de la máquina, limpiar dientes y gancho rotatorio con acetona.
           tr
             th(rowspan=2).th_bg2 Problemas por lubricación
             td Recalentamiento de mecanismos o partes del bastidor de la máquina.

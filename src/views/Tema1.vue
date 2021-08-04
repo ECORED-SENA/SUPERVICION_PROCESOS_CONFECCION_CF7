@@ -45,7 +45,7 @@
     separador
 
     #t_1_1.titulo-segundo
-      .h4 1.1 Terminología técnica
+      h2 1.1 Terminología técnica
 
     p.mb-5 Para identificar las máquinas y sus partes, repuestos, accesorios, componentes y herramientas, además de los elementos que hacen parte del puesto de trabajo en operaciones de confección, a continuación, se presenta una serie de términos de uso cotidiano en el proceso de confección. 
 
@@ -73,12 +73,12 @@
             p.BorTit #[strong Figura 4] #[br]Bobinas
             figure
               img(src='@/assets/curso/tema_1/img_8.png', alt='Texto que describa la imagen')
-              figcaption Nota.Tomada de Amazon.com (s.f.)
+              figcaption Nota. Tomada de Amazon.com (s.f.)
           .col-lg-6
             p.BorTit #[strong Figura 5] #[br]Gancho de máquina plana de 2 agujas
             figure
               img(src='@/assets/curso/tema_1/img_9.png', alt='Gancho de máquina plana de 2 agujas')
-              figcaption Nota.Tomada de Amazon.com (s.f.)
+              figcaption Nota. Tomada de Amazon.com (s.f.)
             
         p.text-center #[strong Nota:] en las máquinas planas de 2 agujas la bobina tiene un gancho que ayuda a formar la puntada.
 
@@ -92,7 +92,7 @@
             p.BorTit #[strong Figura 6] #[br]Paño de agujas
             figure
               img(src='@/assets/curso/tema_1/img_11.png', alt='Paño de agujas')
-              figcaption Nota.Tomada de Amazon.com (s.f.)
+              figcaption Nota. Tomada de Amazon.com (s.f.)
           .col-lg-6
             p.BorTit #[strong Figura 7] #[br]La aguja y sus partes
             figure
@@ -126,7 +126,7 @@
             figure
               img(src='@/assets/curso/tema_1/img_16.png', alt='Pie prensatelas')
               figcaption Nota. Tomada de Amazon.com (s.f.)
-      .py-4.py-md-5(titulo="Pie prensatelas" :icono="require('@/assets/curso/tema_1/img_17.svg')")  
+      .py-4.py-md-5(titulo="Lazada" :icono="require('@/assets/curso/tema_1/img_17.svg')")  
         .row
           .col-lg-6
             p Costura que se forma cuando el hilo de la aguja interactúa con el hilo de la bobina o de abajo, formando una trenza.
@@ -139,7 +139,7 @@
               .anexo__texto
                 p #[strong Enlace web.] Mecánica de confección: cómo funciona una máquina de coser y forma la puntada.
           .col-lg-6
-            p.BorTit #[strong Figura 10] #[br]Lanzada
+            p.BorTit #[strong Figura 10] #[br]Lazada
             figure
               img(src='@/assets/curso/tema_1/img_18.png', alt='Lanzada')
               figcaption Nota. Tomada del video cómo funciona una máquina de coser y forma la puntada. 
@@ -147,7 +147,7 @@
     separador
 
     #t_1_2.titulo-segundo
-      .h4 1.2 Máquinas de confección 
+      h2 1.2 Máquinas de confección 
 
     p Se nombran y se conocen de acuerdo con sus funciones, y tienen características muy especiales que las diferencian, como por ejemplo los tipos de agujas que utilizan y el tipo de costura que realizan. Las máquinas de confección son elementos que se dedican a ensamblar piezas de tejido, utilizando, básicamente, agujas, hilos y mecanismos necesarios para coordinar estos.
 
@@ -282,7 +282,7 @@
                       li 
                         span.text-bold.bg_num 1. 
                         | #[strong Cabezote]
-                        p Reguladora de puntada, caja de bobina, palanca de retroceso, dientes, gancho rotatorio, palanca tira hilos, volante, agujas, porta conos, guía de hilos, pie prénsatela, barra de aguja, medidor de lubricación. 
+                        p Reguladora de puntada, caja de bobina, palanca de retroceso, dientes, gancho rotatorio, palanca tira hilos, volante, agujas, porta conos, guía de hilos, pie prensatela, barra de aguja, medidor de lubricación. 
                       li 
                         span.text-bold.bg_num 2. 
                         | #[strong Mueble]
@@ -418,6 +418,9 @@
                         li 
                           span.text-bold.bg_num 16. 
                           | Tapa de toma de hilo.
+                        li 
+                          span.text-bold.bg_num 17. 
+                          | Planchuela
       .row.justify-content-center(titulo="3 Máquina empretinadora")
         .col-lg-12
           SlyderA
@@ -521,7 +524,7 @@
               .col-lg-10
                 p.mb-0  
                   strong Función
-                p Realiza puntada overlock, es decir una puntada utilizada para sobre orillados o adornos que se podría considerar una costura; el término en inglés es Cover Stitch que significa recubridora. Su uso más frecuente es en prendas fabricadas con tejido de punto como blusas, camisetas, pantalonetas.
+                p Realiza puntada #[i overlock], es decir una puntada utilizada para sobre orillados o adornos que se podría considerar una costura; el término en inglés es #[i Cover Stitch] que significa recubridora. Su uso más frecuente es en prendas fabricadas con tejido de punto como blusas, camisetas, pantalonetas.
                 h5.text-center Tipo de puntada que realiza
                 figure
                   img.img-a(src='@/assets/curso/tema_1/img_33.png', alt='Lanzada')
@@ -621,7 +624,7 @@
                           span.text-bold.bg_num 6. 
                           | Palanca tirahilo.
 
-    h5 Fichas técnicas las máquinas
+    h5 Fichas técnicas de las máquinas
 
     p Es un documento que permite la comunicación entre el proveedor que entrega las máquinas y herramientas con el maquilador de piezas cortadas. En este documento vienen consignadas todas las especificaciones y características de los equipos; así como la identificación de las partes, los cuidados, los sistemas de lubricación, las maneras de enhebrado, las referencias y toda la información que sea pertinente para su manejo.
 
@@ -756,7 +759,7 @@
                 th(colspan=2) Revisó
                 th(colspan=2) Observaciones
     h5 Tecnologías implementadas en las máquinas
-    p.mb-0 A través del tiempo las máquinas herramientas, al igual que las metodologías de trabajo, han venido teniendo cambios orientados a hacer las cosas más rápido (productividad), y con mejor cumplimiento de especificaciones (calidad). Con la implementación de dispositivos electrónicos, se obviaron pasos en las órdenes, movimientos y relación de velocidades, de tal manera que al año 2021 la industria de la confección está dotada de equipos autómatas, algunos puestos de trabajo los atienden robots, y existen softwares que han integrado varias operaciones.
+    p.mb-0 A través del tiempo las máquinas herramientas, al igual que las metodologías de trabajo, han venido teniendo cambios orientados a hacer las cosas más rápido (productividad), y con mejor cumplimiento de especificaciones (calidad). Con la implementación de dispositivos electrónicos, se obviaron pasos en las órdenes, movimientos y relación de velocidades, de tal manera que al año 2021 la industria de la confección está dotada de equipos autómatas, algunos puestos de trabajo los atienden robots, y existen #[i softwares] que han integrado varias operaciones.
     p.mb-5 De manera funcional y elemental, a continuación, se muestra la relación entre tecnologías.
 
     .row.justify-content-center
@@ -789,13 +792,13 @@
     separador
 
     #t_1_3.titulo-segundo
-      .h4 1.3 Herramientas o equipos de mantenimiento de máquinas de coser
+      h2 1.3 Herramientas o equipos de mantenimiento de máquinas de coser
 
     p.mb-5 El mantenimiento de las máquinas requiere una serie de instrumentos, implementos o herramientas para su ejecución, a continuación, se mencionan las más utilizadas.
 
     .row.d-flex.mb-5
       .col-lg-4.d-flex.mb-4.mb-lg-0
-        .jumbo_2.jum_bg1
+        .jumbo_1.jum_bg2
           .p-4.bg-white.bordet-top
             p.BorTit #[strong Figura 13] #[br]Destornilladores
             figure.mb-5
@@ -804,25 +807,28 @@
           .p-4
             p.mb-0 #[strong Destornilladores de diferentes cabezas:] (estrella, rectos, etc.) y diferentes largos y anchos: su función principal es hacer girar los tornillos, ya sea para apretarlos o aflojarlos.
       .col-lg-4.d-flex.mb-4.mb-lg-0
-        .jumbo_1.jum_bg2
+        .jumbo_2.jum_bg1
           .p-4.bg-white.bordet-top
             p.BorTit #[strong Figura 14] #[br]Pinceles y brochas
-            figure.mb-5
+            figure
               img(src='@/assets/curso/tema_1/img_40.png', alt='Texto que describa la imagen')
+            figcaption Nota. Tomada de Amazon.com. (s.f.)
           .p-4
             p.mb-0 #[strong Pinceles y brochas:] se utilizan para barrer el polvo y eliminar suciedades internas y externas.
       .col-lg-4.d-flex
         .jumbo_1.jum_bg2
           .p-4.bg-white.bordet-top
               p.BorTit #[strong Figura 15] #[br]Aceitera
-              figure.mb-5
+              figure
                 img(src='@/assets/curso/tema_1/img_41.png', alt='Texto que describa la imagen')
+              figcaption Nota. Tomada de freepik.com/ 15330540.
+              
           .p-4.d-flex
             p.mb-0 #[strong Aceiteras con aceite de máquinas:] elemento indispensable para proveer el aceite a los equipos que lo requieran.
     
     .row.d-flex.mb-5
       .col-lg-6.d-flex.mb-4.mb-lg-0
-        .jumbo_1.jum_bg2
+        .jumbo_2.jum_bg1
           .p-4.bg-white.bordet-top
             p.BorTit #[strong Figura 16] #[br]Pinza
             figure.mb-5
@@ -831,7 +837,7 @@
           .p-4
             p.mb-0 #[strong Pinzas, alicates:] su función es sujetar o doblar piezas, la pinza tiene la punta más pequeña, lo cual le permite acceder a sitios más estrechos. También tiene la posibilidad de cortar alambres o elementos similares.
       .col-lg-6.d-flex
-        .jumbo_2.jum_bg1
+        .jumbo_1.jum_bg2
           .p-4.bg-white.bordet-top
             p.BorTit #[strong Figura 17] #[br]Llaves Allen
             figure.mb-5
@@ -841,7 +847,7 @@
 
     .row.d-flex.mb-5
       .col-lg-6.d-flex.mb-4.mb-lg-0
-        .jumbo_2.jum_bg1
+        .jumbo_1.jum_bg2
           .p-4.bg-white.bordet-top
             p.BorTit #[strong Figura 18] #[br]Llave inglesa ajustable
             figure.mb-5
@@ -850,11 +856,11 @@
           .p-4.d-flex
             p.mb-0 #[strong Llave inglesa:] también conocida como llave de expansión, es utilizada para apretar y aflojar tuercas y tornillos y su característica es que es ajustable, y sirve para intervenir diferentes diámetros y medidas de los tornillos.
       .col-lg-6.d-flex
-        .jumbo_1.jum_bg2
+        .jumbo_2.jum_bg1
           .p-4.bg-white.bordet-top
             p.BorTit #[strong Figura 19] #[br]Compresor
             figure.mb-5
-              img(src='@/assets/curso/tema_1/img_43.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema_1/img_45.png', alt='Texto que describa la imagen')
           .p-4
             p.mb-0 #[strong Compresor de aire con pistola:] máquina cuya función es tomar un fluido y darle potencia en su salida, estos fluidos pueden ser aire, gases y hasta pinturas. Se complementa colocando una pistola en su salida, la cual controla la cantidad y el sitio a donde saldrá el fluido. También, en lugar de pistola se les adapta a sistemas de operación de algunas máquinas y equipos de confección. 
 

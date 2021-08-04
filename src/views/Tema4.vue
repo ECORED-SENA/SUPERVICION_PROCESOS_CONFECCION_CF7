@@ -28,14 +28,14 @@
           .col-lg-6
             a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=-5nxVsKSNaI&ab_channel=Dr.BuchelliUNT" target="_blank")
               .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
+                img(src="@/assets/template/icono-link-1.svg")
               .anexo__texto
-                p #[strong Enlace web.] Dr. Buchelli UNT. (2014). La gestión de mantenimiento de las empresas. 
+                p #[strong Enlace web.] Dr. Buchelli UNT. (2014). La gestión del mantenimiento en las empresas. 
 
     separador
 
     #t_4_1.titulo-segundo
-      .h4 4.1 Plan de mantenimiento
+      .h2 4.1 Plan de mantenimiento
 
     .row.mb-5
       .col-lg-8
@@ -71,7 +71,7 @@
               span.c1 Cuáles son las responsabilidades del operario, el mecánico y el supervisor.
             li 
               i.fas.fa-atom
-              span.c1 Cuál es la frecuencia para realizar actividades mantenimiento.
+              span.c1 Cuál es la frecuencia para realizar actividades de mantenimiento.
 
         .col-lg-1.d-sm-none.d-lg-block
           .verticalLine 
@@ -80,7 +80,7 @@
 
           a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=av7JwCDox3A&ab_channel=ValborSoluciones" target="_blank")
               .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
+                img(src="@/assets/template/icono-link-1.svg")
               .anexo__texto
                 p #[strong Enlace web.] Valbor Soluciones. (2018). Plan de mantenimiento: 5 elementos indispensables.
 
@@ -179,9 +179,9 @@
         
         .row.justify-content-center
           .col-lg-8
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=ufdL4VmHt4I&ab_channel=TopSoluci%C3%B3n" target="_blank")
+            a.anexo.mb-4.mb-lg-0.botton--bg2(href="https://www.youtube.com/watch?v=ufdL4VmHt4I&ab_channel=TopSoluci%C3%B3n" target="_blank")
               .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
+                img(src="@/assets/template/icono-link-1.svg")
               .anexo__texto
                 p #[strong Enlace web.] Top Solución. (s.f.). Plan de mantenimiento. 
 
@@ -195,7 +195,7 @@
       ul.lista-ul.color2.mb-0
         li
           i.fas.fa-atom
-          span.c1 Halla herramientas por todos lados de la empresa.
+          span.c1 Haya herramientas por todos lados de la empresa.
         li
           i.fas.fa-atom
           span.c1 Se extravíen las herramientas, los documentos y los repuestos.

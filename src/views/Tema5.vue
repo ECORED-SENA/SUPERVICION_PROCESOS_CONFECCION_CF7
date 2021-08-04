@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 5
-      h1 Herramienta Total Productive Maintenance (TPM) - Mantenimiento Productivo Total
+      h1 Herramienta #[i Total Productive Maintenance] (TPM) - Mantenimiento Productivo Total
 
     .row.mb-5
       .col-lg-4
@@ -64,9 +64,9 @@
         .row.justify-content-center
           .col-lg-8
 
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=QdDPyNolNhk&ab_channel=GembaAcademyEspa%C3%B1ol" target="_blank")
+            a.anexo.mb-4.mb-lg-0.botton--bg2(href="https://www.youtube.com/watch?v=QdDPyNolNhk&ab_channel=GembaAcademyEspa%C3%B1ol" target="_blank")
               .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
+                img(src="@/assets/template/icono-link-1.svg")
               .anexo__texto
                 p #[strong Enlace web.] Gemba Academy Español. (2018). TPM Mantenimiento productivo total. 
 

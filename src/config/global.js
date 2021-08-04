@@ -23,7 +23,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Componentes',
+        titulo: 'Máquinas y herramientas para confección',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -186,19 +186,20 @@ export default {
     {
       referencia:
         'AMERICAN SEWING MACHINE OIL Aceite American Para Máquinas de Coser. Recuperado en',
+      link: 'https://www.widman.biz/specs/coser.pdf',
     },
 
     {
       referencia:
         'Ananas Labores y Manualidades. (2016). Conociendo la máquina de coser VI: Mantenimiento de la máquina. [Artículo de blog]',
       link:
-        'https://ananaslaboresymanualidades.wordpress.com/2016/07/07/mantenimiento-la-máquina-de-coser-limpieza-y-engrasado/',
+        'https://ananaslaboresymanualidades.wordpress.com/2016/07/07/mantenimiento-la-maquina-de-coser-limpieza-y-engrasado/',
     },
 
     {
       referencia:
         'Armando SK. (2015). Consejos de mantenimiento para que tu máquina de coser dure para siempre jamás. [Blog]',
-      link: 'https://skarlett.es/mantenimiento-para-tu-máquina-de-coser/',
+      link: 'https://skarlett.es/mantenimiento-para-tu-maquina-de-coser/',
     },
 
     {
@@ -252,7 +253,7 @@ export default {
     {
       termino: 'Diagrama de flujo',
       significado:
-        'grafica que muestra la secuencia de actividades de un proceso, de manera organizada y por medio de símbolos.',
+        'gráfica que muestra la secuencia de actividades de un proceso, de manera organizada y por medio de símbolos.',
     },
     {
       termino: 'Eficiencia',
@@ -266,7 +267,7 @@ export default {
     {
       termino: 'Ensamble',
       significado:
-        'unir de manera correcta las piezas que componen un producto',
+        'unir de manera correcta las piezas que componen un producto.',
     },
     {
       termino: 'Gestión',
@@ -299,13 +300,13 @@ export default {
     {
       texto:
         'Coser fácil y más. (2019). Tipos de agujas para máquinas de coser doméstica.',
-      tipo: 'video',
+      tipo: 'Video',
       link: 'https://youtu.be/kVNt52lzehQ',
     },
     {
       texto:
         'Mecánica confección. (s.f.). Cómo funciona una máquina de coser y forma la pintada I.',
-      tipo: 'video',
+      tipo: 'Video',
       link: 'https://youtu.be/SKTaW5NOjqw',
     },
     {
@@ -315,8 +316,8 @@ export default {
     },
     {
       texto:
-        'Dr. Buchelli UNT. (2014). La gestión de mantenimiento de las empresas.',
-      tipo: 'video',
+        'Dr. Buchelli UNT. (2014). La gestión del mantenimiento en las empresas.',
+      tipo: 'Video',
       link: 'https://youtu.be/-5nxVsKSNaI',
     },
     {
@@ -359,28 +360,38 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Paola Angélica Castro Salazar',
-        cargo: 'Experta temática',
+        nombre: 'Pedro Luis Sossa Ramírez',
+        cargo: 'Contratista diseño y desarrollo curricular',
         centro:
           'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
       },
       {
-        nombre: 'Ledy Johana Velásquez Hernández',
-        cargo: 'Experta temática',
+        nombre: 'Liliana María Ceballos Gutiérrez',
+        cargo: 'Contratista diseño y desarrollo curricular',
         centro:
           'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
       },
       {
-        nombre: 'Liliana Victoria Morales Gualdrón',
-        cargo: 'Diseñadora instruccional',
+        nombre: 'Carlos Parra Carrillo',
+        cargo: 'Instructor',
         centro:
-          'Centro de la Industria para la Comunicación Gráfica - Regional Distrito Capital',
+          'Centro de la Industria, la Empresa y los Servicios - Regional Huila',
       },
       {
-        nombre: 'Jhana Johanna Bustillo Ardila',
-        cargo: 'Revisión de estilo',
+        nombre: 'Zvi Daniel Grosman Landáez',
+        cargo: 'Contratista - Diseñador instruccional',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
+      },
+      {
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Revisora pedagógica y metodológica',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
 
@@ -409,7 +420,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Yenny Patricia Ulloa Villamizar',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
