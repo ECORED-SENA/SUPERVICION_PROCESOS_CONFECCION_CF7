@@ -208,6 +208,8 @@
     #t_2_2.titulo-segundo
       h2 2.2 Seguimiento a las máquinas y acciones de mantenimiento 
 
+    p.mb-5 Para hacerle seguimiento a una máquina, es importante registrar las novedades que va teniendo, para eso se sugiere un formato similar al que se presenta a continuación.
+
     .row.justify-content-center
       .col-lg-10
         p.BorTit #[strong Tabla 4] #[br]Formato para reglamentar actividades de mantenimiento
@@ -217,7 +219,7 @@
               tr
                 th Fecha
                 th Máquina
-                th Ref. y No.
+                th Ref. y N.°
                 th(colspan=2) Actividad
                 th Frecuencia
                 th Responsable

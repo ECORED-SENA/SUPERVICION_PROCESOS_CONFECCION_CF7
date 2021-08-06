@@ -45,7 +45,7 @@
             th Solución
         tbody
           tr
-            th(rowspan=17).th_bg2 Rotura del hilo en la aguja.
+            th(rowspan=17).th_bg2 Rotura del hilo en la aguja
 
           tr
             td Hilo inadecuado según el material a coser.	 
@@ -297,7 +297,7 @@
 
 <script>
 export default {
-  name: 'Tema6',
+  name: 'Tema7',
   data: () => ({
     // variables de vue
   }),

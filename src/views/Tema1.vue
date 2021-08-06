@@ -63,7 +63,7 @@
             p.BorTit.mb-5 #[strong Figura 3] #[br]Planchuela y dientes
             figure
               img(src='@/assets/curso/tema_1/img_6.png', alt='Planchuela y dientes')
-              figcaption Nota.Tomada de Amazon.com (s.f.)
+              figcaption Nota. Tomada de Amazon.com (s.f.)
 
       .py-4.py-md-5(titulo="Bobina o canillero" :icono="require('@/assets/curso/tema_1/img_7.svg')")
         p.mb-5 Es una caja o compartimiento donde se colocan los carreteles que contienen el hilo que, al ser contactados con el hilo que trae la aguja, forman la lazada. También se conoce este accesorio con el nombre de #[strong canillero], o #[strong portabobina].
@@ -420,7 +420,7 @@
                           | Tapa de toma de hilo.
                         li 
                           span.text-bold.bg_num 17. 
-                          | Planchuela
+                          | Porta cono
       .row.justify-content-center(titulo="3 Máquina empretinadora")
         .col-lg-12
           SlyderA
@@ -651,7 +651,7 @@
           table
             thead
               tr
-                th(colspan=7) 
+                th(colspan=8) 
                   h4 EMPRESA DE CONFECCIONES EL ENSAMBLE
             tbody
               tr 
@@ -663,26 +663,26 @@
                   strong Marca:
                 td 
                   strong Referencia:
-                td(colspan=2)  
+                td(colspan=3)  
                   strong Serie:
               tr 
                 td(colspan=2)  
                   strong Sección:
                 td 
                   strong Proveedor:
-                td(colspan=2) 
+                td(colspan=3) 
                   strong Catálogo:
                 td(colspan=2)  
                   strong Número:
               tr 
                 td(colspan=3,rowspan=2) 
                   strong Observaciones:
-                td(colspan=4) 
+                td(colspan=5) 
                   strong Herramienta:
               tr 
                 td(colspan=2) 
                   strong No. Motor:
-                td(colspan=2) 
+                td(colspan=3) 
                   strong Color:
             
               tr.th_bg1
@@ -692,7 +692,7 @@
              
                 th Intervención
               
-                th(colspan=2) Proveedor
+                th(colspan=3) Proveedor
               
                 th Situación final
               
@@ -701,62 +701,62 @@
                 td 
                 td
                 td
-                td(colspan=2)
+                td(colspan=3)
                 td
                 td
               tr 
                 td 
                 td
                 td
-                td(colspan=2)
+                td(colspan=3)
                 td
                 td
               tr 
                 td 
                 td
                 td
-                td(colspan=2)
+                td(colspan=3)
                 td
                 td
               tr 
                 td 
                 td
                 td
-                td(colspan=2)
+                td(colspan=3)
                 td
                 td
               tr 
                 td 
                 td
                 td
-                td(colspan=2)
+                td(colspan=3)
                 td
                 td
               tr 
                 td 
                 td
                 td
-                td(colspan=2)
+                td(colspan=3)
                 td
                 td
               tr 
                 td 
                 td
                 td
-                td(colspan=2)
+                td(colspan=3)
                 td
                 td
               tr 
                 td 
                 td
                 td
-                td(colspan=2)
+                td(colspan=3)
                 td
                 td
               tr.th_bg1
                 th(colspan=2) Autorizó
                 th Ejecutó
-                th(colspan=2) Revisó
+                th(colspan=3) Revisó
                 th(colspan=2) Observaciones
     h5 Tecnologías implementadas en las máquinas
     p.mb-0 A través del tiempo las máquinas herramientas, al igual que las metodologías de trabajo, han venido teniendo cambios orientados a hacer las cosas más rápido (productividad), y con mejor cumplimiento de especificaciones (calidad). Con la implementación de dispositivos electrónicos, se obviaron pasos en las órdenes, movimientos y relación de velocidades, de tal manera que al año 2021 la industria de la confección está dotada de equipos autómatas, algunos puestos de trabajo los atienden robots, y existen #[i softwares] que han integrado varias operaciones.

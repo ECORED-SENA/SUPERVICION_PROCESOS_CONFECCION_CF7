@@ -191,14 +191,14 @@ export default {
 
     {
       referencia:
-        'Ananas Labores y Manualidades. (2016). Conociendo la máquina de coser VI: Mantenimiento de la máquina. [Artículo de blog]',
+        'Ananas Labores y Manualidades. (2016). Conociendo la máquina de coser VI: Mantenimiento de la máquina. [Artículo de blog].',
       link:
         'https://ananaslaboresymanualidades.wordpress.com/2016/07/07/mantenimiento-la-maquina-de-coser-limpieza-y-engrasado/',
     },
 
     {
       referencia:
-        'Armando SK. (2015). Consejos de mantenimiento para que tu máquina de coser dure para siempre jamás. [Blog]',
+        'Armando SK. (2015). Consejos de mantenimiento para que tu máquina de coser dure para siempre jamás. [Blog].',
       link: 'https://skarlett.es/mantenimiento-para-tu-maquina-de-coser/',
     },
 
@@ -357,7 +357,7 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Pedro Luis Sossa Ramírez',
@@ -400,37 +400,43 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: ['Eulises Orduz Amezquita'],
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Ricardo Alonso González Vargas',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
