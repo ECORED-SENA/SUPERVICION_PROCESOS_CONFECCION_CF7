@@ -651,24 +651,24 @@
           table
             thead
               tr
-                th(colspan=8) 
+                th(colspan=9) 
                   h4 EMPRESA DE CONFECCIONES EL ENSAMBLE
             tbody
               tr 
                 td(colspan=2) 
                   strong Fecha: 
-                td 
+                td(colspan=2) 
                   strong Máquina:
                 td 
                   strong Marca:
-                td 
+                td(colspan=2)  
                   strong Referencia:
-                td(colspan=3)  
+                td(colspan=2)  
                   strong Serie:
               tr 
                 td(colspan=2)  
                   strong Sección:
-                td 
+                td(colspan=2) 
                   strong Proveedor:
                 td(colspan=3) 
                   strong Catálogo:
@@ -677,84 +677,84 @@
               tr 
                 td(colspan=3,rowspan=2) 
                   strong Observaciones:
-                td(colspan=5) 
+                td(colspan=6) 
                   strong Herramienta:
               tr 
                 td(colspan=2) 
                   strong No. Motor:
-                td(colspan=3) 
+                td(colspan=4) 
                   strong Color:
             
               tr.th_bg1
                 th Fecha
               
-                th Situación actual diagnóstico
+                th(colspan=2) Situación actual diagnóstico
              
                 th Intervención
               
-                th(colspan=3) Proveedor
+                th(colspan=2) Proveedor
               
                 th Situación final
               
-                th Observaciones
+                th(colspan=2) Observaciones
               tr 
                 td 
+                td(colspan=2)
                 td
+                td(colspan=2)
                 td
-                td(colspan=3)
-                td
-                td
+                td(colspan=2)
               tr 
                 td 
+                td(colspan=2)
                 td
+                td(colspan=2)
                 td
-                td(colspan=3)
-                td
-                td
+                td(colspan=2)
               tr 
                 td 
+                td(colspan=2)
                 td
+                td(colspan=2)
                 td
-                td(colspan=3)
-                td
-                td
+                td(colspan=2)
               tr 
                 td 
+                td(colspan=2)
                 td
+                td(colspan=2)
                 td
-                td(colspan=3)
-                td
-                td
+                td(colspan=2)
               tr 
                 td 
+                td(colspan=2)
                 td
+                td(colspan=2)
                 td
-                td(colspan=3)
-                td
-                td
+                td(colspan=2)
               tr 
                 td 
+                td(colspan=2)
                 td
+                td(colspan=2)
                 td
-                td(colspan=3)
-                td
-                td
+                td(colspan=2)
               tr 
                 td 
+                td(colspan=2)
                 td
+                td(colspan=2)
                 td
-                td(colspan=3)
-                td
-                td
+                td(colspan=2)
               tr 
                 td 
+                td(colspan=2)
                 td
+                td(colspan=2)
                 td
-                td(colspan=3)
-                td
-                td
+                td(colspan=2)
               tr.th_bg1
-                th(colspan=2) Autorizó
+                th(colspan=3) Autorizó
                 th Ejecutó
                 th(colspan=3) Revisó
                 th(colspan=2) Observaciones
