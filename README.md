@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/SUPERVICION_PROCESOS_CONFECCION_CF7/](https://ecored-sena.github.io/SUPERVICION_PROCESOS_CONFECCION_CF7/)
+[https://ecored-sena.github.io/SUPERVISION_PROCESOS_CONFECCION_CF7/](https://ecored-sena.github.io/SUPERVISION_PROCESOS_CONFECCION_CF7/)
 
 #
 
